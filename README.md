@@ -1,6 +1,6 @@
 ## Sunum Kodu
 
-Bu depo, sunumda kullanılan Jupyter Notebook'ları ve ilgili bağımlılıkları içerir.
+Bu depo, sunumda kullanılan Jupyter Notebook'ları ve ilgili bağımlılıkları içerir. Diyanet İşleri Bilgi İşlem Kampı kapsamında bu sunum hazırlanılmıştır.
 
 ### Sunum ve Kapsam
 - Bu çalışmalar, Diyanet İşleri Başkanlığı Bilgi İşlem Kampı bünyesinde gerçekleştirilmiştir.
